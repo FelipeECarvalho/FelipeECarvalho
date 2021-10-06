@@ -1,4 +1,4 @@
-## OLÁ, MEU NOME É FELIPE, SOU DESENVOLVEDOR E PROCURO MEU PRIMEIRO EMPREGO NA ÁREA
+## OLÁ, MEU NOME É FELIPE, SOU DESENVOLVEDOR BACKEND E PROCURO MEU PRIMEIRO EMPREGO NA ÁREA
 
 - Conhecimento em python e Bancos de dados relacionais(MYSQL, SQLServer)
 <div style="display: inline_block"><br>
