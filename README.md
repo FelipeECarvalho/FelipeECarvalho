@@ -12,8 +12,8 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Felipe-DotNet" height="50" width="60" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img align="center" alt="Felipe-Sql" height="50" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white**">
-   <img align="center" alt="Felipe-CSharp" height="50" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+   <img align="center" alt="Felipe-Sql" height="50" width="60" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+   <img align="center" alt="Felipe-CSharp" height="50" width="65" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
 </div>
 
 <div align="center">
