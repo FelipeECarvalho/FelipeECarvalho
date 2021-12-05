@@ -1,20 +1,32 @@
-# Olá, eu sou Felipe 
+# Olá :wave:, eu sou Felipe 
 
-- Desenvolvedor Back-End, atualmente apaixonado por desenvolver em .net, fan em bancos de dados Sql(em especial Sql Server), e amante de tecnologia em geral. Inglês nível técnico.
+- Desenvolvedor Back-End, atualmente apaixonado por desenvolver em .net, fan em bancos de dados Sql(em especial Sql Server), amante de tecnologia em geral. Inglês nível técnico.
+
+
+- Atualmente procurando uma oportunidade de ingressar na área.
+
+<br>
 
 <div> 
-  <a href = "mailto:Felipeemanuelc12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "Felipeemanuelc12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
 
-### Linguagens e ferramentas
+## :computer: :books: Linguagens e ferramentas
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Felipe-DotNet" height="50" width="60" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img align="center" alt="Felipe-Sql" height="50" width="60" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-   <img align="center" alt="Felipe-CSharp" height="50" width="65" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+   <img align="center" alt="Felipe-DotNet" height="40" width="90" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+   <img align="center" alt="Felipe-Sql" height="40" width="120" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+   <img align="center" alt="Felipe-CSharp" height="40" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+   <img align="center" alt="Felipe-Git" height="40" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+   <img align="center" alt="Felipe-GitHub" height="40" width="90" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
 </div>
+
+<br>
+
+## :octocat: GitHub Stats
 
 <div align="center">
   <a href="https://github.com/FelipeECarvalho">
