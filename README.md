@@ -1,8 +1,8 @@
-## Olá, eu sou Felipe 
+# Olá, eu sou Felipe 
 
 - Desenvolvedor Back-End, atualmente apaixonado por desenvolver em .net, fan em bancos de dados Sql(em especial Sql Server), e amante de tecnologia em geral.
 
-# Contatos
+## Contatos
 
 <div> 
   <a href = "mailto:Felipeemanuelc12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
