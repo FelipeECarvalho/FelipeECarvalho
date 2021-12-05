@@ -1,6 +1,15 @@
-## OLÁ, SOU UM DESENVOLVEDOR BACK-END E AQUI ESTÃO MEUS PROJETOS
+## Olá, eu sou Felipe 
 
-- Conhecimento em .net e Bancos de dados relacionais(MYSQL, SQLServer)
+- Desenvolvedor Back-End, atualmente apaixonado por desenvolver em .net, fan em bancos de dados Sql(em especial Sql Server), e amante de tecnologia em geral.
+
+# Contatos
+
+<div> 
+  <a href = "mailto:Felipeemanuelc12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipeecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Felipe-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Felipe-Mysql" height="50" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -17,8 +26,4 @@
   
   ##
  
-<div> 
-  <a href = "mailto:Felipeemanuelc12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipeecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
