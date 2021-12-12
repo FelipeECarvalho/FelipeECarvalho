@@ -1,9 +1,10 @@
 # Olá :wave:, eu sou Felipe 
 
-- Desenvolvedor Back-End, atualmente apaixonado por desenvolver em .net, fan em bancos de dados Sql(em especial Sql Server), amante de tecnologia em geral. Inglês nível técnico.
-
-
-- Atualmente procurando uma oportunidade de ingressar na área.
+- 🔭 Estudando .Net e C#.
+- 🌱 Atualmente criando projetos pessoais com Windows Forms e Sql Server.
+- :test_tube:Conhecimento em ASP.NET e Entity Framework
+- :earth_americas:Inglês intermediário
+- :shamrock:Procurando uma oportunidade de ingressar na área.
 
 <br>
 
