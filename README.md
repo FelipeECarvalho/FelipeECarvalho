@@ -2,7 +2,7 @@
 
 - 🔭 Estudando .Net e C#.
 - 🌱 Atualmente criando projetos pessoais com Windows Forms e Sql Server.
-- :test_tube:Conhecimento em ASP.NET e Entity Framework
+- :test_tube:Conhecimento em Dapper E ASP.NET
 - :earth_americas:Inglês intermediário
 - :shamrock:Procurando uma oportunidade de ingressar na área.
 
