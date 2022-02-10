@@ -1,8 +1,10 @@
 # Olá :wave:, eu sou Felipe 
 
-- 🔭 Estudando .Net e C#.
-- 🌱 Atualmente criando projetos pessoais com Windows Forms e Sql Server.
-- :test_tube:Conhecimento em Dapper E ASP.NET
+- 🔭 Estudando a criação de APIs em .Net.
+- 🌱 Atualmente criando projetos pessoais com C#, Windows Forms e Sql Server.
+- :test_tube:ORMs: Dapper e Entity Framework Core
+- :test_tube:Conhecimento em Windows Forms e ASP.NET
+- :test_tube:Sql Server
 - :earth_americas:Inglês intermediário
 - :shamrock:Procurando uma oportunidade de ingressar na área.
 
