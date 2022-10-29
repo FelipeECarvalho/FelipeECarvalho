@@ -1,12 +1,16 @@
 # Olá :wave:, eu sou Felipe 
 
-- 🔭 Estudando a criação de APIs Rest em .NET
-- 🌱 Desenvolvendo projetos pessoais com C#, ASP.NET MVC e Entity Framework Core.
-- :test_tube:ORMs: Entity Framework Core
-- :test_tube:Conhecimento em Windows Forms, ASP.NET e Dapper
-- :test_tube:SqlServer
-- :earth_americas:Inglês intermediário
-- :shamrock:Procurando uma oportunidade de ingressar na área.
+✔️ .NET
+✔️ C#
+✔️ Javascript, Html e Css
+✔️ jQuery e Ajax
+✔️ SQL Server e PostgreSQL
+✔️ Entity Framework, Dapper e NHibernate
+✔️ ASP.NET
+✔️ API REST / MVC
+✔️ Git e Github
+✔️ Azure DevOps
+✔️ Swagger / Postman
 
 <br>
 
