@@ -2,16 +2,15 @@
 
 ✔️ .NET
 ✔️ C#
-✔️ Javascript, Html e Css
-✔️ jQuery e Ajax
+✔️ ASP.NET Core
+✔️ Domain Driven Desing (DDD)
+✔️ Clean Code
+✔️ Entity Framework e NHibernate
 ✔️ SQL Server e PostgreSQL
-✔️ Entity Framework, Dapper e NHibernate
-✔️ ASP.NET
-✔️ API REST / MVC
+✔️ JavaScript, HTML e CSS
+✔️ jQuery
+✔️ API
 ✔️ Git e Github
-✔️ Azure DevOps
-✔️ Swagger / Postman
-
 <br>
 
 <div> 
